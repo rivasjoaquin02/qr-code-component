@@ -4,14 +4,14 @@ body {
     background: hsl(212, 45%, 89%);
     display: grid;
     place-items: center;
+    height: 100vh;
 }
 
 .card {
     background: hsl(0, 0%, 100%);
     border-radius: 20px;
-    box-shadow: 20px 20px 30px hsla(217, 45%, 22%, 0.404);
+    box-shadow: 2px 2px 20px hsla(217, 45%, 22%, 0.123);
     padding: 20px;
-    margin: 1em;
     width: 30%;
     height: auto;
     text-align: center;
